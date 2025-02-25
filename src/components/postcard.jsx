@@ -1,5 +1,5 @@
 import React from "react";
-import LikeButton from "./components/likebutton";
+import LikeButton from "./likebutton";
 
 const PostCard = ({ post }) => {
   const cardStyle = {
